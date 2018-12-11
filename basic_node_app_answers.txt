@@ -1,0 +1,13 @@
+>What is a Node module?
+
+ANSWER: modules are sets of functions you want to include in your application
+
+>What is the main difference between exports and module.exports?
+
+ANSWER: the main difference between the two is that `module.exports` is returned by `require()` and can be reassigned, while `exports` cannot reassigned outside of the module and is just a reference back to `module.exports`  
+
+>Why is using exports recommended?
+
+ANSWER: it is recommended for convenience, and the code is cleaner. 
+
+Bear down, Chicago Bears, make every play clear the way to victory; Bear down, Chicago Bears, put up a fight with a might so fearlessly. We'll never forget the way you thrilled the nation with your T-formation. Bear down, Chicago Bears, and let them know why you're wearing the crown. You're the pride and joy of Illinois, Chicago Bears, bear down.
